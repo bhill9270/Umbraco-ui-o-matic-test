@@ -1,0 +1,5 @@
+c:\users\bhill\documents\visual studio 2013\Projects\UmbracoUIOMATIC\Magic.App\bin\Magic.App.dll.config
+c:\users\bhill\documents\visual studio 2013\Projects\UmbracoUIOMATIC\Magic.App\bin\Magic.App.dll
+c:\users\bhill\documents\visual studio 2013\Projects\UmbracoUIOMATIC\Magic.App\bin\Magic.App.pdb
+c:\users\bhill\documents\visual studio 2013\Projects\UmbracoUIOMATIC\Magic.App\obj\Debug\Magic.App.dll
+c:\users\bhill\documents\visual studio 2013\Projects\UmbracoUIOMATIC\Magic.App\obj\Debug\Magic.App.pdb
